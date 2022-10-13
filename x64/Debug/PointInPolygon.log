@@ -1,0 +1,14 @@
+﻿  PointInPolygon.cpp
+C:\Users\Admin\source\repos\PointInPolygon\PointInPolygon\Geometry.h(41,17): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Admin\source\repos\PointInPolygon\PointInPolygon\Geometry.h(42,17): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Admin\source\repos\PointInPolygon\PointInPolygon\Geometry.h(72,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Admin\source\repos\PointInPolygon\PointInPolygon\Geometry.h(72,37): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Admin\source\repos\PointInPolygon\PointInPolygon\Geometry.h(104,55): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Admin\source\repos\PointInPolygon\PointInPolygon\Geometry.h(104,37): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Admin\source\repos\PointInPolygon\PointInPolygon\Triangulation.h(32,27): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Admin\source\repos\PointInPolygon\PointInPolygon\Triangulation.h(99,27): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Admin\source\repos\PointInPolygon\PointInPolygon\PointInPolygon.cpp(158,75): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Admin\source\repos\PointInPolygon\PointInPolygon\PointInPolygon.cpp(160,75): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Admin\source\repos\PointInPolygon\PointInPolygon\PointInPolygon.cpp(169,71): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Admin\source\repos\PointInPolygon\PointInPolygon\PointInPolygon.cpp(177,71): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  PointInPolygon.vcxproj -> C:\Users\Admin\source\repos\PointInPolygon\x64\Debug\PointInPolygon.exe

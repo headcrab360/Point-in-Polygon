@@ -1,0 +1,24 @@
+﻿  glad.c
+  PointInPolygon.cpp
+C:\Users\Admin\source\repos\PointInPolygon\PointInPolygon\src\Geometry.h(20,43): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+C:\Users\Admin\source\repos\PointInPolygon\PointInPolygon\src\Geometry.h(76,2): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Admin\source\repos\PointInPolygon\PointInPolygon\src\Geometry.h(99,17): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Admin\source\repos\PointInPolygon\PointInPolygon\src\Geometry.h(100,17): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Admin\source\repos\PointInPolygon\PointInPolygon\src\Geometry.h(129,87): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Admin\source\repos\PointInPolygon\PointInPolygon\src\Geometry.h(129,64): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Admin\source\repos\PointInPolygon\PointInPolygon\src\Geometry.h(141,2): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Admin\source\repos\PointInPolygon\PointInPolygon\src\Geometry.h(159,82): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Admin\source\repos\PointInPolygon\PointInPolygon\src\Geometry.h(159,64): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Admin\source\repos\PointInPolygon\PointInPolygon\src\Triangulation.h(28,27): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Admin\source\repos\PointInPolygon\PointInPolygon\src\Triangulation.h(92,27): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Admin\source\repos\PointInPolygon\PointInPolygon\src\PointInPolygon.cpp(146,82): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Admin\source\repos\PointInPolygon\PointInPolygon\src\PointInPolygon.cpp(147,76): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Admin\source\repos\PointInPolygon\PointInPolygon\src\PointInPolygon.cpp(156,71): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Admin\source\repos\PointInPolygon\PointInPolygon\src\PointInPolygon.cpp(163,87): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Admin\source\repos\PointInPolygon\PointInPolygon\src\PointInPolygon.cpp(171,82): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Admin\source\repos\PointInPolygon\PointInPolygon\src\PointInPolygon.cpp(172,76): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Generating code
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+  All 1715 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  PointInPolygon.vcxproj -> C:\Users\Admin\source\repos\PointInPolygon\x64\Release\PointInPolygon.exe
